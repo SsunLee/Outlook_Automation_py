@@ -6,14 +6,14 @@
 ### 👤 소개
 ---
 
-- Name : Outlook_Automation_py
-- 사용 기술 : Python, win32com
-- 기능 분류 : 
+- **Name :** Outlook_Automation_py
+- **사용 기술 :** Python, win32com
+- **기능 분류 :** 
   - 업무 보고 메일
   - 내부 보고 메일
   - 당직 메일
   - 부재중 메일
-- 실행 파일 : Outlook_Automation_py/dist/**out_look_file.exe**
+- **실행 파일 :** Outlook_Automation_py/dist/**out_look_file.exe**
 
 <br/>
 
